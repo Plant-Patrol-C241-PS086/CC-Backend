@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "plantpatrol-sql",
+    "password": "PlantPatrol",
+    "database": "express-jwt",
+    "host": "34.50.83.34",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "plantpatrol-sql",
+    "password": "PlantPatrol",
+    "database": "database_test",
+    "host": "34.50.83.34",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "plantpatrol-sql",
+    "password": "PlantPatrol",
+    "database": "database_production",
+    "host": "34.50.83.34",
+    "dialect": "mysql"
+  }
+}
